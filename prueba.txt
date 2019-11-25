@@ -1,0 +1,11 @@
+total 9
+drwxr-xr-x 1 EducaciónIT 197121  0 nov. 25 19:50 ./
+drwxr-xr-x 1 EducaciónIT 197121  0 nov. 25 18:58 ../
+drwxr-xr-x 1 EducaciónIT 197121  0 nov. 25 19:50 .git/
+-rw-r--r-- 1 EducaciónIT 197121 25 nov. 25 19:29 a1.txt
+-rw-r--r-- 1 EducaciónIT 197121  0 nov. 25 18:58 a2.txt
+-rw-r--r-- 1 EducaciónIT 197121  0 nov. 25 18:58 b1.txt
+-rw-r--r-- 1 EducaciónIT 197121  0 nov. 25 18:58 lunes25.txt
+-rw-r--r-- 1 EducaciónIT 197121  0 nov. 25 18:59 pc-educacionit
+-rw-r--r-- 1 EducaciónIT 197121  0 nov. 25 19:50 prueba.txt
+Lo modifique
